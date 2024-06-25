@@ -5,4 +5,5 @@ layout: home
 
 # Sailesh's website
 ## Comp Sci Major 
-## saileshbalaji10 at berkeley domain
+
+![Sailesh's Snap Program]
