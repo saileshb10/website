@@ -4,7 +4,7 @@ layout: home
 
 
 # Sailesh's website
-## Comp Sci Major 
+## Berkeley Precollege Student
 
 ![Sailesh's Snap Program] ()
 
